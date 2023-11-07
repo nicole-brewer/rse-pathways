@@ -1,0 +1,9 @@
+name: us-rse23-reproducible-document
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - matplotlib
+
